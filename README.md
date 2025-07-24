@@ -19,7 +19,7 @@ Simple Discord Nuker Made In Python
 
  ---
 
- # Paid Nuker Will Be Sold via My Discord Server.
+ # My Paid Nuker Will Be Sold In My Discord Server:)
   
 
 
