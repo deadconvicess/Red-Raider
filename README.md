@@ -2,6 +2,8 @@
 
 Powerful discord raider coded in python
 
+<img width="954" height="425" alt="redraider" src="https://github.com/user-attachments/assets/ff8ed05c-2f73-417b-8dd6-332a84d9ec52" />
+
 ---
 - Multithreaded operations for fast execution  
 - Manage channels, roles, emojis, and members  
