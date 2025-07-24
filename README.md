@@ -45,6 +45,6 @@
 ---
 
 💸 Want Better Options? 
-Red Raider (Paid) will over 30 + Options On Release.
+Red Raider (Paid) will Have Over 30 + Options On Release.
 
 👉 Join Discord Server
