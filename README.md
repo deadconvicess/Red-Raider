@@ -1,80 +1,97 @@
-Red Raider Free (BETA)
-Simple Discord Nuker Made In Python
+# 🚨 Red Raider — Free Discord Nuker (BETA)
+> ⚠️ For educational & authorized use only  
+> 🔥 A powerful Python-based Discord raider tool
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40" alt="Screenshot 1" width="900"/> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/940a69ba-44b1-4535-a6cc-c7e47b6be64e" alt="Screenshot 2" width="900"/> </p>
-Features
-Comprehensive Server Management
-Manage and manipulate key server components including:
+![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
+![Screenshot](https://github.com/user-attachments/assets/940a69ba-44b1-4535-a6cc-c7e47b6be64e)
 
-Channels (Create, Delete, Spam)
+---
 
-Roles (Delete, Spam Pings)
+## ✨ Features
 
-Emojis (Delete)
+### 🛠️ Server Control
+- 🚫 Delete Channels, Roles, Emojis
+- 📢 Spam messages across channels
+- 🏷️ Mass Mention Roles
+- 🚷 Mass Ban Members
 
-Members (Ban)
+### 💣 Full Server Nuker
+- 🔥 Ban all members
+- 🧨 Delete all server assets (channels, roles, emojis)
+- 🌀 Spam-create channels and messages
+- ✏️ Rename the server
 
-Full Server Nuking
-Perform an all-in-one raid to:
+### ⚙️ Advanced Functions
+- ⚡ Multi-threaded execution
+- 📶 Rate-limit aware (respects Discord API pacing)
+- 🔐 Token manager with Windows Registry support
+- 🎨 Beautiful CLI with gradient effects
 
-Ban all members
+---
 
-Delete all channels, roles, and emojis
+## 📥 Requirements
 
-Create spam channels
+- Python `3.7+`
+- Windows OS (for token saving in registry)
+- Internet access
+- A valid **User Token or Bot Token** (with full permissions)
 
-Spam messages across multiple channels
+---
 
-Rename the server
+## 🚀 Getting Started
 
-Multi-threaded & Rate-Limit Aware
-Executes requests concurrently with built-in smart waiting
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/deadconvicess/Red-Raider
+   cd Red-Raider
+Install dependencies:
 
-Respects Discord API rate limits for stable operation
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the nuker:
 
-Token Management
-Save and load multiple Discord tokens securely using Windows Registry
+bash
+Copy
+Edit
+python main.py
+Follow on-screen instructions to:
 
-Supports multi-token operations for enhanced flexibility
+Enter token(s)
 
-User-Friendly CLI
-Gradient colored terminal interface
+Provide server ID
 
-Interactive menus for smooth navigation and command execution
+Use interactive menu to:
 
-Requirements
-Python 3.7 or higher
+Nuke server
 
-Windows OS (required for registry token storage)
+Ban users
 
-Internet connection
+Delete/create/spam channels
 
-Valid Discord Bot or User Token with the necessary permissions
+Spam role pings
 
-Usage
-Run the script.
+Rename server
 
-Enter your Discord token(s) when prompted.
+🧠 Example Menu Options
+Option	Description
+1	Delete All Channels
+2	Delete All Roles
+3	Delete All Emojis
+4	Ban All Members
+5	Spam Channels w/ Messages
+6	Spam Ping a Role (Tag Bomb)
+7	Rename Server
+9	Full Server Nuke 🔥
 
-Provide the target Guild (server) ID.
+⚠️ Legal Notice
+This tool is intended for authorized use only.
 
-Navigate the interactive menu to perform actions such as:
+Misuse may violate Discord's Terms of Service and result in account bans.
+You are solely responsible for any actions performed using this tool.
 
-Deleting channels or roles
+💸 Want More Power?
+Red Raider PRO version with extreme features and automation is available in my private server:
 
-Banning members
-
-Spamming messages or role pings
-
-Nuking the server fully
-
-⚠️ Warning
-Use responsibly and only on servers where you have explicit permission.
-This tool can cause irreversible damage and violates Discord’s Terms of Service if misused.
-
-Note
-My paid nuker version with advanced features will be sold exclusively through my Discord server.
-
-Thank you for checking out Red Raider!
-If you find issues or want to contribute, feel free to open an issue or a pull request.
-
+👉 Join Discord Server
