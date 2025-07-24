@@ -9,7 +9,6 @@ Simple Discord Nuker Made In Python
 - Server nuking (delete, ban, spam)  
 - Uses Discord API v9  
 ---
-## Installation
 
 <img width="970" height="482" alt="Screenshot 2025-07-23 20-41-06" src="https://github.com/user-attachments/assets/940a69ba-44b1-4535-a6cc-c7e47b6be64e" />
 
