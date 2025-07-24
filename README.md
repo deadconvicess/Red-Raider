@@ -6,7 +6,7 @@ Powerful discord raider coded in python
 
 ---
 - Manage channels, roles, emojis, and members  
-- server nuking (delete, ban, spam)  
+- Server nuking (delete, ban, spam)  
 - Uses Discord API v9  
 ---
 ## Installation
