@@ -1,29 +1,30 @@
-# 🔴 Red Raider
+# Red Raider
 
-> The Ultimate Python Multi-Tool for Power Users — Fast, Reliable & Feature-Packed 🚀
-
----
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=flat-square)](https://www.python.org/) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE) 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/red-raider?style=flat-square)](https://github.com/yourusername/red-raider/stargazers) 
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/red-raider?style=flat-square)](https://github.com/yourusername/red-raider/issues)
+Powerful Python multi-tool for fast, reliable, and modular operations.
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚡ **Blazing fast multithreaded execution** for maximum efficiency  
-- 🤖 Advanced Discord API integration for seamless control  
-- 🎨 Gorgeous colored console output with `colorama`  
-- 🛠️ One-click batch installer to get you started instantly  
-- 🔒 Designed with stealth & security in mind for power users  
-- 📦 Modular and expandable architecture
+- Fast, multithreaded execution  
+- Discord API integration  
+- Colored console output with `colorama`  
+- Simple batch installer for dependencies  
+- Modular and extensible design  
+- Focused on security and stealth
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/red-raider.git
 cd red-raider
+batch
+Copy
+Edit
+install_dependencies.bat
+bash
+Copy
+Edit
+python red_raider.py
