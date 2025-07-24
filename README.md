@@ -3,7 +3,6 @@
 Powerful discord raider coded in python
 
 ---
-
 - Multithreaded operations for fast execution  
 - Manage channels, roles, emojis, and members  
 - Automated server nuking (delete, ban, spam)  
@@ -12,20 +11,18 @@ Powerful discord raider coded in python
 - Colorful gradient CLI interface
 
 ---
-
-
 - Windows OS (due to Windows Registry dependency)  
 - Python 3.8+  
 - Modules: `requests`, `concurrent.futures` (standard in Python 3.8+)
-
 ---
-
 ## Installation
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/red-raider.git
-   cd red-raider
+```bash
+  git clone https://github.com/yourusername/red-raider.git
+  cd red-raider
+```
+
+ 
   
 
 
