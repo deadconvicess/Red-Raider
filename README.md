@@ -1,30 +1,31 @@
 # Red Raider
 
-Powerful Python multi-tool for fast, reliable, and modular operations.
+Powerful discord raider coded in python
 
 ---
 
-## Features
+- Multithreaded operations for fast execution  
+- Manage channels, roles, emojis, and members  
+- Automated server nuking (delete, ban, spam)  
+- Uses Discord API v9  
+- Saves tokens securely in Windows registry  
+- Colorful gradient CLI interface
 
-- Fast, multithreaded execution  
-- Discord API integration  
-- Colored console output with `colorama`  
-- Simple batch installer for dependencies  
-- Modular and extensible design  
-- Focused on security and stealth
+---
+
+
+- Windows OS (due to Windows Registry dependency)  
+- Python 3.8+  
+- Modules: `requests`, `concurrent.futures` (standard in Python 3.8+)
 
 ---
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/red-raider.git
-cd red-raider
-batch
-Copy
-Edit
-install_dependencies.bat
-bash
-Copy
-Edit
-python red_raider.py
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/yourusername/red-raider.git
+   cd red-raider
+  
+
+
