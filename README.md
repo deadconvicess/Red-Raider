@@ -17,7 +17,9 @@ Simple Discord Nuker Made In Python
   cd red-raider
 ```
 
- 
+ ---
+
+ # Paid Nuker Will Be Sold via My Discord Server.
   
 
 
