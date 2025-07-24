@@ -1,4 +1,4 @@
-# Red Raider (BETA)
+# Red Raider Free (BETA)
 
 Simple Discord Nuker Made In Python
 
