@@ -10,7 +10,7 @@
 - 📢 Spam messages across channels
 - 🏷️ Mass Mention Roles
 - 🚷 Mass Ban Members
-
+  
 ![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
 
 ### 💣 Full Server Nuker
