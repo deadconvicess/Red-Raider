@@ -1,4 +1,4 @@
-# Red Raider
+# Best Und Discord Raider
 
 Powerful discord raider coded in python
 
