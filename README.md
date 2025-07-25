@@ -18,8 +18,3 @@
 ![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
 
 ---
-
-💸 Want Better Options? 
-Red Raider (Paid) will Have Over 30 + Options On Release.
-
-👉 Join Discord Server
