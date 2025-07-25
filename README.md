@@ -10,39 +10,22 @@
 - 📢 Spam messages across channels
 - 🏷️ Mass Mention Roles
 - 🚷 Mass Ban Members
-  
-![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
-
+---
 ### 💣 Full Server Nuker
+
 - 🔥 Ban all members
 - 🧨 Delete all server assets (channels, roles, emojis)
 - 🌀 Spam-create channels and messages
 - ✏️ Rename the server
 
 ---
-
 ## Other
+
 - ⚡ Multi-threaded execution
 - 🔐 Token manager with Windows Registry support
-
 ---
+![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
 
-## 📥 Requirements
-
-- Python `3.7+`
-- Windows OS
-- Internet access
-- A valid **User Token or Bot Token** (with full permissions)
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/deadconvicess/Red-Raider
-   cd Red-Raider
-   ```
 ---
 
 💸 Want Better Options? 
