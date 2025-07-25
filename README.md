@@ -12,6 +12,6 @@
 - 🌀 Create channels
 - ✏️ Rename the server
 
----
+
 
 
