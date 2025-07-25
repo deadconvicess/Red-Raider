@@ -7,22 +7,13 @@
 ## ✨ Features
 
 - 🚫 Delete Channels, Roles, Emojis
-- 📢 Spam messages across channels
+- 📢 Spam messages 
 - 🏷️ Mass Mention Roles
 - 🚷 Mass Ban Members
----
-### 💣 Full Server Nuker
-
 - 🔥 Ban all members
-- 🧨 Delete all server assets (channels, roles, emojis)
-- 🌀 Spam-create channels and messages
+- 🧨 Delete all server channels, roles, emojis
+- 🌀 Spam-create channels
 - ✏️ Rename the server
-
----
-## Other
-
-- ⚡ Multi-threaded execution
-- 🔐 Token manager with Windows Registry support
 ---
 ![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
 
