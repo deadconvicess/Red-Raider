@@ -1,8 +1,0 @@
-{
-    "MAX_THREADS": 1000,
-    "MIN_DELAY": 0.02,
-    "MAX_DELAY": 0.05,
-    "TOKEN_PREFIX": "TOKEN",
-    "API_BASE": "https://discord.com/api/v9",
-    "REG_PATH": "SOFTWARE\\Red_Raider"
-}
