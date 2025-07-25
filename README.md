@@ -1,4 +1,4 @@
-# Red Raider — (BETA)
+# Red Raider — Beta
 
 ![Screenshot](https://github.com/user-attachments/assets/940a69ba-44b1-4535-a6cc-c7e47b6be64e)
 
