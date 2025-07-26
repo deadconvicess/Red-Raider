@@ -5,14 +5,14 @@
 
 
 
-## ✨ Features
+## Features
 
-- 🚫 Delete Channels, Roles, Emojis
-- 📢 Spam messages 
-- 🏷️ Mass Mention Roles
-- 🚷 Mass Ban Members
-- 🌀 Create channels
-- ✏️ Rename the server
+-  Delete Channels, Roles, Emojis
+-  Spam messages 
+-  Role Spammer
+-  Mass Ban All Members
+-  Create channels
+-  Rename the server
 
 
 
