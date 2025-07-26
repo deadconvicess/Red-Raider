@@ -1,6 +1,7 @@
 # Red Raider (Beta)
 ---
-![Screenshot](https://github.com/user-attachments/assets/99d68d29-a579-4360-9614-1fb1c4ca0a40)
+<img width="873" height="436" alt="@redraider" src="https://github.com/user-attachments/assets/8679df56-e8b8-4f54-8d1f-d526a1f67361" />
+
 
 
 ## ✨ Features
