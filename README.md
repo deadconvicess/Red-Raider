@@ -5,7 +5,7 @@
 
 
 
-## Features
+##  Features
 
 -  Delete Channels, Roles, Emojis
 -  Spam messages 
